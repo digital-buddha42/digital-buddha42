@@ -24,4 +24,4 @@ Data analyst with a background in operations (Yelp RevOps) and a passion for mus
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/alec-banerji)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/alecbanerji)
